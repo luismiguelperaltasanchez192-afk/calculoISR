@@ -32,15 +32,21 @@ El programa solicita al usuario el sueldo mensual, calcula el sueldo anual, dete
 
 ### Caso 1: Empleado exento de ISR
 
-* (Inserte aquí la captura de pantalla del programa.) *
+<img width="370" height="163" alt="image" src="https://github.com/user-attachments/assets/86f1965a-d521-4a34-ac46-488a988bf1a0" />
+
 
 ### Caso 2: Empleado con ISR
 
-* (Inserte aquí la captura de pantalla del programa.) *
+<img width="348" height="150" alt="image" src="https://github.com/user-attachments/assets/7389f939-6f51-4af4-9b72-9f3ae4c1cabe" />
+
 
 ### Caso 3: Empleado con sueldo mayor
 
-* (Inserte aquí la captura de pantalla del programa.) *
+<img width="321" height="151" alt="image" src="https://github.com/user-attachments/assets/5c56dda0-eb30-4b87-b9ce-0e8bbfe55bd5" />
+
+### Caso 4: Empleado con sueldo máximo
+<img width="324" height="146" alt="image" src="https://github.com/user-attachments/assets/d64c13b6-91fe-42d2-af18-84ef7c3cc069" />
+
 
 ## Autor
 
@@ -53,4 +59,5 @@ El programa solicita al usuario el sueldo mensual, calcula el sueldo anual, dete
 * *Profesor : **Ing.Gamalier Reyes del Carmen
 
 ## Repositorio
-
+Enlace
+https://github.com/luismiguelperaltasanchez192-afk/calculolSR
